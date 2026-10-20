@@ -1,0 +1,1 @@
+This empty file switches EcoPrompt into judge mode (word-list edits last for one visit only). Do not put it on the school laptop.
